@@ -1,0 +1,5 @@
+/phpunit/.phpunit.result.cache
+/phpunit/vendor/
+/refactoring/.phpunit.result.cache
+/refactoring/vendor/
+/start/vendor/

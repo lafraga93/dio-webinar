@@ -1,0 +1,17 @@
+{
+    "name": "lafraga93/start",
+    "authors": [
+        {
+            "name": "Gustavo Fraga",
+            "email": "gustavolafraga@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}

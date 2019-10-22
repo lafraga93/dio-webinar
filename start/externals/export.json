@@ -1,0 +1,34 @@
+{
+    "funcionarios": [
+        {
+            "codigo": 1,
+            "nome": "Maria da Silva",
+            "salario": 1390.30,
+            "cargo": "trainee" 
+        },
+        {
+            "codigo": 2,
+            "nome": "Paula Pereira",
+            "salario": 1185.50,
+            "cargo": "trainee" 
+        },
+        {
+            "codigo": 3,
+            "nome": "Gustavo Fraga",
+            "salario": 3790.10,
+            "cargo": "software_engineer" 
+        },
+        {
+            "codigo": 4,
+            "nome": "Jésica Castro",
+            "salario": 1590.20,
+            "cargo": "trainee" 
+        },
+        {
+            "codigo": 5,
+            "nome": "Giovana Nunes",
+            "salario": 5390.75,
+            "cargo": "software_engineer" 
+        }
+    ]
+}
